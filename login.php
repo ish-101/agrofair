@@ -140,7 +140,7 @@
 			<form id="login" action="/bin/back/farm/login.php" method="post">
 				<input type="text" name="name" placeholder="Username" class="form-control form-group" required>
 				<input type="password" name="passwd" placeholder="Password" class="form-control form-group" required>
-				<input type="submit" name="Submit" required class="btn btn-primary btn-block" required>
+				<input type="submit" name="Submit" class="btn btn-primary btn-block" required>
 			</form>
 		</div>
 	</div>
