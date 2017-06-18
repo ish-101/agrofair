@@ -175,7 +175,7 @@ Currently, our product uses RGB image recognition in order to determine the soil
 </p>
 We plan to 1. Add support for using an IoT device in order to determine various properties of the soil 2. Add english-text-to-hindi-speech support to increase user accessibility 3. Collect data based on the %age of farmers using our app and fine-tune our recommendations to enable them to earn more overall</p>
 			<form>
-				<a type="submit" class="btn btn-primary btn-block">
+				<a href="/login.php" type="submit" class="btn btn-primary btn-block">
 					Start Using Agrofair
 				</a>
 			</form>
